@@ -1,0 +1,61 @@
+Vimmi Exam
+Hello and welcome to Vimmi.
+
+Please answer the questions below.
+
+For each question provide a clear answer and the actual code that you made to address the question.
+
+Please send your answers in a reply, not later than 3 hours after you received this email. 
+You can skip some questions in order to make it on time.
+
+The exam is to evaluate your knowledge and experience in order to match it with Vimmi’s needs.
+
+A. Personal information
+What is your full name?
+
+What is your contact information?
+
+What is your python development level? Junior, Mid or Senior?
+
+How many years do you already have in python development? How many as professional (In a company) How many as a student or as a hobby?
+
+How many years do you already have as a backend developer? How many as professional (In a company) How many as a student or as a hobby?   
+
+Yeah, no coding here. Yet.
+
+ B. Programing
+Please provide a clear answer and the relevant code for each question.
+
+Between 28 to 117, how many numbers include the digit 7?
+
+What is the average number of the group of numbers from the question above?
+
+What is the sum of squares of that group?
+
+Provide a general function to resolve Q1. Where the inputs are the minimum and the maximum number in the range and the last parameter is the digit. For example, func(28, 117, 7) will return the answer for Q1. Provide the answer for func(98, 207, 0)
+
+As in Q4, but with lambada. And an answer for lam(111, 1011, 11)
+
+C. Data management
+Please provide a clear answer and the relevant code for each question.
+
+The attached json file has a list of the top-250 movies in imdb.com. What is the average imdb-rating of the top-10 movies?
+
+At about what time the top-50 movies were published?
+
+Provide a table with average rating and "average" publication time for each 10 movies from the top-10 to end of the list. For each row, provide the title of the best movie.
+
+Such data should be saved in a common database. How will you do that? Provide an example (pseudo) code.
+
+Provide a query examples to find the average rating
+
+Provide a script to upload this data into your suggested DB. 
+
+The movies list is coming from IMBD: API for IMDb, TMDb, Wikipedia and more - IMDb-API . 
+How will you update the DB with the current top-250 list?
+You can use this apikey: k_fjjgi8pt 
+Note that you can use it only during the exam time. Please do not use it elsewhere.
+
+Using the imdb-api, how you'll enrich the movie data with Actors and Genres?
+
+Once your data is enriched with Actors, write a query on your data, to find the top-10 actors on your data.
